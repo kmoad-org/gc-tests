@@ -6,3 +6,4 @@ steps:
   - hw
   - --source=.
   - --trigger-http
+  - --runtime=python37

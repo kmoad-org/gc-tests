@@ -4,6 +4,6 @@ steps:
   - functions
   - deploy
   - hw
-  - --source=.
+  - --source=functions/hw
   - --trigger-http
   - --runtime=python37

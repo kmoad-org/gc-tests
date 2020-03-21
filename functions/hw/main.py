@@ -1,2 +1,2 @@
 def hw(request):
-    return 'ITS WORKING! ITS WORKING!'
+    return 'did removing the service account do anything?'

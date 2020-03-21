@@ -33,7 +33,7 @@ def hello_get(request):
         Response object using `make_response`
         <http://flask.pocoo.org/docs/1.0/api/#flask.Flask.make_response>.
     """
-    return 'Hello Kyle Moad!'
+    return 'Hello there'
 # [END functions_helloworld_get]
 
 

@@ -1,2 +1,2 @@
 def hw(request):
-    return 'run admin instead'
+    return 'i guess it needs service account perms. sigh.'

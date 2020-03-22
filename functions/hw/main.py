@@ -1,2 +1,2 @@
 def hw(request):
-    return 'another policy edit'
+    return 'ok fine it didnt work'

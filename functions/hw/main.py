@@ -1,2 +1,2 @@
 def hw(request):
-    return 'i guess it needs service account perms. sigh.'
+    return 'Trial for oc-web-portal'
